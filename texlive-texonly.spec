@@ -1,6 +1,6 @@
 Name:		texlive-texonly
 Version:	50985
-Release:	1
+Release:	2
 Summary:	A sample document in Plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texonly
