@@ -3,7 +3,7 @@ Version:	50985
 Release:	2
 Summary:	A sample document in Plain TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/texonly
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/texonly
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texonly.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/texonly.doc.r%{version}.tar.xz
